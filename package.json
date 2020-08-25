@@ -1,0 +1,22 @@
+{
+  "name": "react-handwriting-keyboard",
+  "version": "1.0.9",
+  "main": "dist/index.js",
+  "module": "dist/index.esm.js",
+  "unpkg": "dist/index.umd.js",
+  "scripts": {
+    "build": "father build"
+  },
+  "peerDependencies": {
+    "react": "^16.8.0",
+    "react-dom": "^16.8.0"
+  },
+  "devDependencies": {},
+  "files": [
+    "dist"
+  ],
+  "dependencies": {
+    "classnames": "^2.2.6",
+    "father": "^2.29.6"
+  }
+}
