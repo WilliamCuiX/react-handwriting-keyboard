@@ -20,5 +20,3 @@ export default () => {
   return <input type="text" onClick={showKeyboard} />
 };
 ```
-
-# <a href="https://williamcui31.github.io/react-handwriting-keyboard/">demo地址</a>
