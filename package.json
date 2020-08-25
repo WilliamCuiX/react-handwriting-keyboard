@@ -16,7 +16,9 @@
     "dist"
   ],
   "dependencies": {
-    "classnames": "^2.2.6",
+    "classnames": "^2.2.6"
+  },
+  "devDepandencies": {
     "father": "^2.29.6"
   }
 }
