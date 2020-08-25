@@ -10,7 +10,10 @@
   "module": "dist/index.esm.js",
   "unpkg": "dist/index.umd.js",
   "scripts": {
-    "build": "father build"
+    "build": "father build",
+    "doc:dev": "npx dumi dev",
+    "doc:build": "npx dumi build",
+    "doc:deploy": "gh-pages -d dist"
   },
   "peerDependencies": {
     "react": "^16.8.0",
@@ -23,6 +26,7 @@
     "classnames": "^2.2.6"
   },
   "devDependencies": {
-    "father": "^2.29.6"
+    "father": "^2.29.6",
+    "gh-pages": "^3.1.0"
   }
 }

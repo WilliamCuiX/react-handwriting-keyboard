@@ -2,7 +2,7 @@
 title: react-handwriting-keyboard
 ---
 
-# 这是一个手写键盘react组件
+# 这是一个支持手写键盘的react组件
 ```jsx
 import React from 'react';
 import keyboard from 'react-handwriting-keyboard';
@@ -17,8 +17,8 @@ export default () => {
     });
   };
 
-  return <>
-    <input type="text" onClick={showKeyboard} />
-  </>
+  return <input type="text" onClick={showKeyboard} />
 };
 ```
+
+# <a href="https://williamcui31.github.io/react-handwriting-keyboard/">demo地址</a>
