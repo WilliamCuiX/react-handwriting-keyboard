@@ -1,6 +1,11 @@
 {
   "name": "react-handwriting-keyboard",
-  "version": "1.0.10",
+  "version": "1.0.11",
+  "description": "A React Component to Handwriting Keyboard",
+  "license": "MIT",
+  "homepage": "https://WilliamCui31.github.io/react-handwriting-keyboard",
+  "repository": "git@github.com:WilliamCui31/react-handwriting-keyboard.git",
+  "author": "William Cui",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
   "unpkg": "dist/index.umd.js",
@@ -11,14 +16,13 @@
     "react": "^16.8.0",
     "react-dom": "^16.8.0"
   },
-  "devDependencies": {},
   "files": [
     "dist"
   ],
   "dependencies": {
     "classnames": "^2.2.6"
   },
-  "devDepandencies": {
+  "devDependencies": {
     "father": "^2.29.6"
   }
 }
