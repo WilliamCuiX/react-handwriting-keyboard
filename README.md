@@ -34,4 +34,4 @@ React.render(
 );
 ```
 
-# <a href="https://williamcui31.github.io/react-handwriting-keyboard/">demo地址</a>
+# <a href="https://williamcuix.github.io/react-handwriting-keyboard/">demo地址</a>
